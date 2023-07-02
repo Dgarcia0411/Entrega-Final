@@ -1,0 +1,52 @@
+.header{
+  background-color: rgb(18, 17, 17);
+
+  .header_container{
+    width: 100%;
+    margin: 0 auto;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .header_logo{
+    cursor: pointer;
+   
+}
+.header_logo img{
+  width: 110px;
+  padding: 10px;
+  margin: auto;
+  transition: all 0.4s;
+  
+  }
+  .header_logo img:hover{
+    transform: scale(1.2);
+    
+  }
+  .navbar{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    gap: 20px;
+
+    .navbar_link{
+      display: inline-flex;
+      text-decoration: none;
+      padding: 20px;
+      font-size: 0.9rem;
+      color: #fff;
+      font-family:'Kaushan Script', cursive;
+      cursor: pointer;
+     
+    }
+    .carrito{
+      display: inline-flex;
+      font-size: 20px;
+      margin-right: 20px;
+      margin-top: 3.5px;
+      cursor: pointer;
+    }
+  } 
+}
