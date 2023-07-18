@@ -1,0 +1,100 @@
+[
+    {
+        "id": 1,
+        "nombre": "Base liquida velvet touch",
+        "descripcion": "La base liquida te da alta cobertura durante todo el día, su fórmula de 24 horas cubre las imperfecciones y unifica el tono proporcionando un acabado luminoso en la piel.",
+        "precio": 40000,
+        "img": "https://cromantic.vteximg.com.br/arquivos/ids/175100-1000-1200/64189---1-Base-Light-Medium.jpg?v=637781417407870000",
+        "category": "rostro"
+    },
+    {
+        "id": 2,
+        "nombre": "Pulpa Hidratante",
+        "descripcion": "La pulpa hidratante con extracto de castaña es una formulación que combina de manera sinérgica agentes emulsionantes, para la piel, dejando la piel suave y con un alto grado de humectación.",
+        "precio": 12000,
+        "img": "https://cromantic.vteximg.com.br/arquivos/ids/174009-1000-1200/64050--GRANULOS-EXFOLIANTES-COOL-NATURE-100ML---1.jpg?v=637717269841200000",
+        "category": "rostro"
+    },
+    {
+        "id": 3,
+        "nombre": "Base cremosa en barra",
+        "descripcion": "Base correctora cremosa con humectantes y filtro solar que ayuda a cubrir manchas, ojeras y pequeñas imperfecciones en puntos específicos de la piel del rostro y es fácil de expandir.",
+        "precio": 25000,
+        "img": "https://cromantic.vteximg.com.br/arquivos/ids/171197-1000-1200/63557-BASE-BARRA-PALLADIO-BUILT-BLEND-PORCELAIN.jpg?v=637523925786900000",
+        "category": "rostro"
+    },
+   
+    {
+        "id": 4,
+        "nombre": "Polvo suelto",
+        "descripcion": "¡Cutis libre de brillo con los Polvos Sueltos Palladio ! El polvo facial de tono amarillo se adapta a cualquier tono de piel.",
+        "precio": 15000,
+        "img": "https://cromantic.vteximg.com.br/arquivos/ids/177626-1000-1200/44386119369.1.jpg?v=637952424731430000",
+        "category": "rostro"
+    },
+    {
+        "id": 5,
+        "nombre": "Labia en barra",
+        "descripcion": "Labial en barra humectante semi mate y metálico, de larga duración, textura cremosa, brindando hidratación y color en los labios.",
+        "precio": 9000,
+        "img": "https://cromantic.vteximg.com.br/arquivos/ids/180679-1000-1200/897_Labial-en-barra-Prohibida-W-100.png?v=638181416661370000",
+        "category": "labios"
+    },
+    {
+        "id": 6,
+        "nombre": "Brillo Labial  ",
+        "descripcion": " El Brillo Labial Bys Glitter cuenta con una exclusiva fórmula que hidrata y maquilla tus labios mientras deja fabulosos destellos de brillo.",
+        "precio": 18900,
+        "img": "https://cromantic.vteximg.com.br/arquivos/ids/170305-1000-1200/MAIU12.jpg?v=637480614031130000",
+        "category": "labios"
+    },
+    {
+        "id": 7,
+        "nombre": "Hidratante De Labios ",
+        "descripcion": "El Hidratante De Labios nutre profundamente los labios, devolviéndoles su elasticidad y vitalidad, cuenta con una textura ligera libre de sensación pegajosa.",
+        "precio": 18350,
+        "img": "https://cromantic.vteximg.com.br/arquivos/ids/164213-1000-1200/53795.jpg?v=636961197987900000",
+        "category": "labios"
+    },
+    {
+        "id": 8,
+        "nombre": "Exfoliante Para Labios",
+        "descripcion": "¿Quieres lucir labios HERMOSOS? El Exfoliante Para Labios Nee regenerar la piel de forma más rápida ya que elimina la primera capa de impurezas, dejándola más permeable y perfecta.",
+        "precio": 7000,
+        "img": "https://cromantic.vteximg.com.br/arquivos/ids/164253-1000-1200/4005.jpg?v=636964702583900000",
+        "category": "labios"
+    },
+    {
+        "id": 9,
+        "nombre": "Lápiz Delineador De Ojos",
+        "descripcion": "¡Es momento de impactar a todos con tu mirada! El lápiz Divva cuenta con una fórmula enriquecida con vitamina E y C, de alta duración resistente a la transpiración y no deja manchas. ",
+        "precio": 18900,
+        "img": "https://cromantic.vteximg.com.br/arquivos/ids/176387-1000-1200/12.-Lapiz-Delineador-De-Ojos-Nero_-Negro.jpg?v=637859219312800000",
+        "category": "ojos"
+    },
+    {
+        "id": 10,
+        "nombre": "Plumón Delineador De Ojos ",
+        "descripcion": "El delineador para ojos Divva te permite crear trazos gruesos y muy delgados dejando un color intenso y profundo gracias a su fórmula concentrada de alta pigmentación y larga duración. Este plumón de ojos es muy fácil de aplicar y su diseño es a prueba de derrames y manchas.",
+        "precio": 29900,
+        "img": "https://cromantic.vteximg.com.br/arquivos/ids/176398-1000-1200/5.-Delineador-en-Plumon-De-Ojos-Negro.jpg?v=637859226136700000",
+        "category": "ojos"
+    },
+    {
+        "id": 11,
+        "nombre": "Paleta De Sombras 12 tonos",
+        "descripcion": "Paleta De Sombras Bys Harmony presenta una combinación perfecta de 12 tonos se sombras de azules, verdes y tonos neutros. Este maquillaje para ojos esta formulada con minerales que ayudan hidratar tu piel. cuentan una textura suave que se difumina fácilmente por toda tu piel ",
+        "precio": 40000,
+        "img": "https://cromantic.vteximg.com.br/arquivos/ids/174037-1000-1200/CO_ESOHAR.jpg?v=637717483676930000",
+        "category": "ojos"
+    },
+    {
+        "id": 12,
+        "nombre": "Pestañina",
+        "descripcion": "La pestañina a prueba de agua cuenta con una sensacional fórmula fluida que ayudara a rizar y alargar visualmente tus pestañas. Su cepillo es perfecto para alcanzar hasta las pestañas más pequeñas y darle un terminado natural, previene la irritación en los ojos sensibles y delicados.",
+        "precio": 21650,
+        "img": "https://cromantic.vteximg.com.br/arquivos/ids/180369-1000-1200/64032.jpg?v=638158094757800000",
+        "category": "ojos"
+    }
+    
+]
