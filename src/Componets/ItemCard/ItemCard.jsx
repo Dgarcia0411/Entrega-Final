@@ -17,7 +17,7 @@ const ItemCard = ({item}) => {
             <p className="precio">Precio: ${item.precio}</p>
            <div>
         
-           <Link to={`/detail/${item.id}`} className='btn btn-primary'>Ver Producto</Link>
+           <Link to={`/detail/${item.id}`} className='btn btn-light d-grid gap-4 col-12 mx-auto'>Ver Producto</Link>
            </div>
             
         </div>

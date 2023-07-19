@@ -2,15 +2,17 @@ import React from "react"
 import { Link } from "react-router-dom"
 
 
+
 export const Header = () => {
     return(
 
     <header className="header">
+         <a href="https://api.whatsapp.com/send/?phone=573045269682&text=Hola Pymark Makeup, me gustaria mas información" target="blank"><img className="wts" src="./public/logo whatsapp.png" alt="Whatsapp" /></a>
         
         <div className="header_container">
 
           <div className="header_logo">
-         <img src="./src/assets/Logo.png" alt="Logo Marca" />
+             <img src="./src/assets/Logo.png" alt="Logo Marca" />
          </div>
 
         <nav className="navbar">
