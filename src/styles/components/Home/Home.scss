@@ -1,0 +1,46 @@
+.titulo-home{
+    font-size: 50px;
+    margin: 1rem;
+}
+.texto_home{
+    font-size: 20px;
+  
+}
+.link-home{
+    text-decoration: none;
+    color: rgb(230, 66, 66);
+}
+
+.galeria{
+    margin: 0.5rem;
+    width: 1200px;
+  height: 1200px;
+    padding: 12px;
+
+    .sub-home{
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .seccion_galeria{
+        margin: 1.2rem;
+        width: 1100px;
+        height: 750px;
+        padding: 10px;
+        display:flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+       } 
+       img{
+        width: 500px;
+        margin: 10px;
+        border-radius: 30px;
+       opacity: .6;
+    }
+    img:hover{
+        opacity: 1;
+    }
+           
+    }
+ 

@@ -1,9 +1,15 @@
 import React from "react"
 import { Link } from "react-router-dom"
 
+import { useContext } from "react"
+import { CartContext } from "../../Context/CartContext"
+
+
+
 
 
 export const Header = () => {
+    const {totalCantidad} = useContext(CartContext)
     return(
 
     <header className="header">
@@ -18,7 +24,7 @@ export const Header = () => {
         <nav className="navbar">
             <ul className="menu">
                 <li><Link  className="navbar_link"to="/">Inicio</Link></li>
-                <li> <Link className="navbar_link" to="/">Productos</Link>
+                <li> <Link className="navbar_link" to="/productos">Productos</Link>
                 <ul className="submenu">
                    <li><Link className="navbar_link" to="/productos/rostro">Rostro</Link> </li>
                    <li><Link className="navbar_link" to="/productos/labios">Labios</Link> </li>
@@ -26,10 +32,13 @@ export const Header = () => {
                 </ul>
             </li>
                 <li> <Link className="navbar_link" to="/contacto">Contacto</Link></li>
-                <li className="carrito">🛒</li>
+                <li> <Link className="carrito" to="/cart">🛒</Link></li>
+                <span>{totalCantidad()}</span>
+            
             </ul>
         </nav>
-    </div>
+        </div>
+       
     </header>
     )
 }

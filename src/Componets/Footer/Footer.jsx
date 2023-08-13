@@ -10,7 +10,7 @@ export const  Footer = () => {
            </div>
            <div className="footer__box">
            <h2>Sobre Nosotros</h2>
-               <p>Somos una tienda en línea colombiana de cosméticos que ofrece las mejores marcas en productos para el cabello, uñas, maquillaje, tintes y mucho más.</p>
+               <p>Somos una tienda en línea colombiana de cosméticos que ofrece las mejores marcas en productos de belleza.</p>
            <p>Nos encargamos de distribuir gran variedad de maquillaje de alta calidad, 100% originales.</p>
           </div>
           <div className="footer__box">

@@ -3,8 +3,11 @@ main{
         background-color: rgb(46, 59, 59);
         padding: 2rem;
         border-radius: 30px;
+        
     }
-    
+    .contacto{
+        height: 700px;
+    }
     @media (min-width:768px) {
         .formulario {
             max-width: 800px;
